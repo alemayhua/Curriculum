@@ -164,7 +164,7 @@
             "level": "Nativo"
         }
     ],
-    "profile": "En la actualidad estoy realizando cursos de programación en Quark, Argentina Programa y también soy estudiante de Ing. en Sistemas de Información en la UTN FRT. Fortaleciéndome en el desarrollo de Software cada vez más; además de realizar trabajos de reparación de pc y programación de forma independiente. <br>Soy una persona proactiva, en constante capacitación que busca iniciarse en el sector IT, dispuesto a enfrentar nuevos desafíos. Mi deseo es pertenecer a una empresa y a un equipo que me acompañe en mi progreso personal, académico y laboral, al cual pueda aportar toda mi dedicación, así como mis conocimientos y habilidades.",
+    "profile": "Estudiante de Ingeniería en Sistemas de Información en la UTN FRT con una pasión por la tecnología y el desarrollo de software. Actualmente, estoy fortaleciendo mis habilidades en programación a través de cursos, y aplicando mis conocimientos en trabajos de reparación de PC y proyectos de programación de forma independiente.<br><br>Como pasante en el área de Cómputos y Redes en el Sanatorio 9 de Julio, adquiriendo experiencia práctica en el mantenimiento y la administración de sistemas informáticos y redes. Mi enfoque se centra en la tecnología de información, buscando mejorar continuamente mi conocimiento en esta área.<br><br>Soy una persona proactiva y en constante capacitación, siempre dispuesto a asumir nuevos desafíos. Estoy comprometido a aportar mi dedicación, conocimientos y habilidades para contribuir al éxito y lograr resultados sobresalientes en todos los proyectos que se me presenten.",
     "education": [
         {
             "id": "0",
@@ -200,18 +200,24 @@
     "experience": [
         {
             "id": 0,
+            "job": "Pasante Computos y Redes",
+            "company": "Sanatorio 9 de Julio SA",
+            "date": "2023"
+        },
+        {
+            "id": 1,
             "job": "Programador",
             "company": "Freelance",
             "date": "2020"
         },
         {
-            "id": 1,
+            "id": 2,
             "job": "Reparación y mantenimiento PC",
             "company": "Particular",
             "date": "2015"
         },
         {
-            "id": 2,
+            "id": 3,
             "job": "Chofer",
             "company": "Uber",
             "date": "2021 - 2022"
