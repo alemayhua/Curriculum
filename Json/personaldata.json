@@ -74,7 +74,9 @@
                     "sublist": [
                         "ES6",
                         "jQuery",
-                        "ReactJs"
+                        "ReactJs",
+                        "NextJs",
+                        "Typescript"
                     ]
                 },
                 {
@@ -164,7 +166,7 @@
             "level": "Nativo"
         }
     ],
-    "profile": "Estudiante de Ingeniería en Sistemas de Información en la UTN FRT con una pasión por la tecnología y el desarrollo de software. Actualmente, estoy fortaleciendo mis habilidades en programación a través de cursos, y aplicando mis conocimientos en trabajos de reparación de PC y proyectos de programación de forma independiente.<br><br>Como pasante en el área de Cómputos y Redes en el Sanatorio 9 de Julio, adquiriendo experiencia práctica en el mantenimiento y la administración de sistemas informáticos y redes. Mi enfoque se centra en la tecnología de información, buscando mejorar continuamente mi conocimiento en esta área.<br><br>Soy una persona proactiva y en constante capacitación, siempre dispuesto a asumir nuevos desafíos. Estoy comprometido a aportar mi dedicación, conocimientos y habilidades para contribuir al éxito y lograr resultados sobresalientes en todos los proyectos que se me presenten.",
+    "profile": "Estudiante de Ingeniería en Sistemas de Información en la UTN FRT, apasionado por la tecnología y el desarrollo de software.<br><br>Actualmente, trabajo con Next.js de Vercel en proyectos para clientes de España y Argentina, además de optimizar las páginas de mi emprendimiento. También aplico mis conocimientos en la reparación de PC, usando tecnología nueva y apoyándome en el manejo de la inteligencia artificial.<br><br>Mi enfoque está en la tecnología de la información, con un compromiso constante de aprendizaje y mejora.<br><br>Busco aportar dedicación, conocimientos y habilidades para lograr resultados sobresalientes en cada proyecto en el que participo.",
     "education": [
         {
             "id": "0",
